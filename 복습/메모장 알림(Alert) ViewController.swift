@@ -1,3 +1,5 @@
+// swift 파일을 추가한 후 alertViewController로 이름을 지음 
+
 import UIKit
 
 extension UIViewController {
